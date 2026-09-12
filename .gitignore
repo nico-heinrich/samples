@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# Local dev tooling indexes (never commit these)
+.codegraph
+.omo/
+
+# Editors
+.idea/
+.vscode/
+
+# Backups / OS
+*.bak
+*.tmp
