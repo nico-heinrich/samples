@@ -1,42 +1,16 @@
 {
   "_base": "https://raw.githubusercontent.com/nico-heinrich/samples/main/",
-  "bd": [
-    "bd/bd_0.wav",
-    "bd/bd_1.wav",
-    "bd/bd_2.wav"
+  "bd": ["bd/bd_0.wav", "bd/bd_1.wav", "bd/bd_2.wav"],
+  "cp": ["cp/cp_0.wav", "cp/cp_1.wav", "cp/cp_2.wav"],
+  "break": [
+    "break/break_0.wav",
+    "break/break_1.wav",
+    "break/break_2.wav",
+    "break/break_3.wav"
   ],
-  "cp": [
-    "cp/cp_0.wav",
-    "cp/cp_1.wav",
-    "cp/cp_2.wav"
-  ],
-  "drums": [
-    "drums/drum_0.wav",
-    "drums/drums_1.wav",
-    "drums/drums_2.wav"
-  ],
-  "hh": [
-    "hh/hh_0.wav",
-    "hh/hh_1.wav",
-    "hh/hh_2.wav"
-  ],
-  "oh": [
-    "oh/oh_0.wav",
-    "oh/oh_1.wav"
-  ],
-  "pad": [
-    "pad/pad_0.wav",
-    "pad/pad_1.wav"
-  ],
-  "sd": [
-    "sd/sd_0.wav",
-    "sd/sd_1.wav",
-    "sd/sd_2.wav",
-    "sd/sd_3.wav"
-  ],
-  "sh": [
-    "sh/sh_0.wav",
-    "sh/sh_1.wav",
-    "sh/sh_2.wav"
-  ]
+  "hh": ["hh/hh_0.wav", "hh/hh_1.wav", "hh/hh_2.wav"],
+  "oh": ["oh/oh_0.wav", "oh/oh_1.wav"],
+  "pad": ["pad/pad_0.wav", "pad/pad_1.wav"],
+  "sd": ["sd/sd_0.wav", "sd/sd_1.wav", "sd/sd_2.wav", "sd/sd_3.wav"],
+  "sh": ["sh/sh_0.wav", "sh/sh_1.wav", "sh/sh_2.wav"]
 }
